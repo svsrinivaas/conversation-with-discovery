@@ -4,7 +4,7 @@
   "version": "0.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/watson-developer-cloud/conversation-with-discovery.git"
+    "url": "https://github.com/watson-developer-cloud/svsrinivaas/conversation-with-discovery.git"
   },
   "license": "Apache-2.0",
   "bugs": {
